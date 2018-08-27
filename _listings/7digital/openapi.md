@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: 7digital
 x-complete: 1
@@ -154,4 +153,3 @@ paths:
       - User
       - Purchase
       - Basket
----
